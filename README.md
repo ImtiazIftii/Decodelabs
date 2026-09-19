@@ -1,4 +1,4 @@
-# Rule-Based AI Chatbot (SON / Aria)
+# Rule-Based AI Chatbot (SON)
 
 A deterministic, zero-dependency rule-based conversational agent built with pure Python control flow and data structures. Developed as **Project 1** for the **DecodeLabs AI Internship**.
 
