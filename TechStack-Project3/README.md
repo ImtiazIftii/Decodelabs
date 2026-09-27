@@ -1,5 +1,4 @@
 ===============================================================================
-DECODELABS INDUSTRIAL TRAINING KIT (BATCH 2026)
 PROJECT 3: AI RECOMMENDATION LOGIC — TECH STACK & CAREER RECOMMENDER
 ===============================================================================
 
